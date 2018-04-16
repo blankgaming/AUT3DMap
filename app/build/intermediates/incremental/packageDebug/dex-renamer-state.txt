@@ -1,0 +1,7 @@
+#Tue Oct 25 15:21:02 NZDT 2016
+base.0=/Users/mmahmoud/AndroidStudioProjects/AUT3DMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6aaa855bcb14a53c7878a264c4e36e2f344cdb15
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/mmahmoud/AndroidStudioProjects/AUT3DMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_66e34b1bab66668670132b8afde9c5c2c25c9bdd/classes.dex
+base.1=/Users/mmahmoud/AndroidStudioProjects/AUT3DMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_66e34b1bab66668670132b8afde9c5c2c25c9bdd
+file.0=/Users/mmahmoud/AndroidStudioProjects/AUT3DMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6aaa855bcb14a53c7878a264c4e36e2f344cdb15/classes.dex
